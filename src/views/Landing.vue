@@ -9,7 +9,7 @@
           <span class="material-symbols-outlined text-primary text-3xl"
             >recycling</span
           >
-          <span class="text-2xl font-bold text-primary">PlasticPickup</span>
+          <span class="text-2xl font-bold text-primary">PlasticIQ pickup</span>
         </div>
         <div class="flex items-center gap-4">
           <router-link
@@ -255,7 +255,7 @@
             <span class="material-symbols-outlined text-primary text-2xl"
               >recycling</span
             >
-            <span class="text-2xl font-bold text-primary">PlasticPickup</span>
+            <span class="text-2xl font-bold text-primary">PlasticIQ pickup</span>
           </div>
           <p class="text-sm text-on-surface-variant max-w-xs">
             Building the world's most reliable infrastructure for plastic waste
@@ -300,7 +300,7 @@
       <div
         class="max-w-[1280px] mx-auto px-4 py-6 border-t border-outline-variant flex flex-col md:flex-row justify-between items-center gap-4">
         <p class="text-sm text-on-surface-variant">
-          © 2024 PlasticPickup. All rights reserved.
+          © 2024 PlasticIQ pickup. All rights reserved.
         </p>
       </div>
     </footer>

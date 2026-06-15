@@ -5,7 +5,7 @@
     <aside
       class="h-screen w-64 fixed left-0 top-0 bg-surface-container-low border-r border-outline-variant flex flex-col py-2 px-4">
       <div class="mb-8 px-2 mt-4">
-        <h1 class="text-2xl font-bold text-primary">PlasticPickup</h1>
+        <h1 class="text-2xl font-bold text-primary">PlasticIQ pickup</h1>
         <p class="text-sm text-on-surface-variant">Admin Suite</p>
       </div>
       <nav class="flex-grow space-y-1">
@@ -194,7 +194,7 @@
       <!-- Footer -->
       <footer
         class="bg-surface-container-highest border-t border-outline-variant py-8 px-10 flex flex-col md:flex-row justify-between items-center gap-4 mt-8">
-        <p class="text-sm text-on-surface-variant">© 2024 PlasticPickup. All rights reserved.</p>
+        <p class="text-sm text-on-surface-variant">© 2024 PlasticIQ pickup. All rights reserved.</p>
         <div class="flex gap-6">
           <a class="text-sm text-on-surface-variant hover:text-secondary transition-colors" href="#">Privacy Policy</a>
           <a class="text-sm text-on-surface-variant hover:text-secondary transition-colors" href="#">Contact Support</a>

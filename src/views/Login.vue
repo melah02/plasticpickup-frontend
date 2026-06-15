@@ -11,7 +11,7 @@
         <div class="w-12 h-12 rounded-xl bg-primary flex items-center justify-center shadow-lg active:scale-95 transition-transform duration-200">
           <span class="material-symbols-outlined text-white text-3xl">recycling</span>
         </div>
-        <span class="text-2xl font-bold text-primary">PlasticPickup</span>
+        <span class="text-2xl font-bold text-primary">PlasticIQ pickup</span>
       </div>
       <h1 class="text-4xl font-bold text-on-surface text-center">Welcome Back</h1>
       <p class="text-base text-on-surface-variant mt-2 text-center max-w-[280px]">
@@ -110,7 +110,7 @@
     <!-- Footer -->
     <footer class="w-full py-8 px-4 flex flex-col items-center">
       <div class="flex items-center gap-1 text-base text-on-surface-variant">
-        <span>New to PlasticPickup?</span>
+        <span>New to PlasticIQ pickup?</span>
         <router-link class="text-primary font-semibold hover:underline transition-all" to="/register">Create an Account</router-link>
       </div>
       <div class="mt-8 text-center max-w-[280px]">
@@ -138,6 +138,7 @@ const showPassword = ref(false);
 const form = reactive({ email: '', password: '' });
 
 const handleLogin = async () => {
+  router.push('/dashboard');
   await auth.login(form);
   if (!auth.error) {
     router.push(auth.isAdmin ? '/admin' : '/dashboard');

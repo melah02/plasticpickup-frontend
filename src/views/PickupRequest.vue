@@ -14,7 +14,7 @@
               >arrow_back</span
             >
           </button>
-          <h1 class="text-2xl font-bold text-primary">PlasticPickup</h1>
+          <h1 class="text-2xl font-bold text-primary">PlasticIQ pickup</h1>
         </div>
         <div class="flex items-center gap-4">
           <nav class="hidden md:flex gap-6">
@@ -293,7 +293,7 @@
     <footer
       class="hidden md:flex w-full mt-auto bg-surface-container-low border-t border-outline-variant py-8 px-10 flex-row justify-between items-center gap-4">
       <p class="text-sm text-on-surface-variant">
-        © 2024 PlasticPickup. All rights reserved.
+        © 2024 PlasticIQ pickup. All rights reserved.
       </p>
       <div class="flex gap-6">
         <a

@@ -5,7 +5,7 @@
       <div class="flex justify-between items-center px-4 md:px-10 h-16 w-full max-w-[1280px] mx-auto">
         <div class="flex items-center gap-3">
           <span class="material-symbols-outlined text-primary text-3xl">recycling</span>
-          <h1 class="text-2xl font-bold text-primary">PlasticPickup</h1>
+          <h1 class="text-2xl font-bold text-primary">PlasticIQ pickup</h1>
         </div>
         <div class="flex items-center gap-4">
           <nav class="hidden md:flex gap-8 items-center">
@@ -37,7 +37,7 @@
           Hello, {{ auth.user?.name }}!
         </h2>
         <p class="text-lg text-on-surface-variant">
-          Track and manage your plastic pickup requests.
+          Track and manage your PlasticIQ pickup requests.
         </p>
       </section>
 
@@ -159,14 +159,14 @@
     <!-- Footer (Desktop only) -->
     <footer
       class="hidden md:flex w-full mt-auto bg-surface-container-low border-t border-outline-variant py-8 px-10 flex-col md:flex-row justify-between items-center gap-4">
-      <div class="text-xl font-bold text-primary">PlasticPickup</div>
+      <div class="text-xl font-bold text-primary">PlasticIQ pickup</div>
       <div class="flex gap-6">
         <a class="text-sm text-on-surface-variant hover:text-secondary transition-colors" href="#">Privacy Policy</a>
         <a class="text-sm text-on-surface-variant hover:text-secondary transition-colors" href="#">Terms of Service</a>
         <a class="text-sm text-on-surface-variant hover:text-secondary transition-colors" href="#">Contact Support</a>
       </div>
       <p class="text-sm text-on-surface-variant">
-        © 2024 PlasticPickup. All rights reserved.
+        © 2024 PlasticIQ pickup. All rights reserved.
       </p>
     </footer>
 

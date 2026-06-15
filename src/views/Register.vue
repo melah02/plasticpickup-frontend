@@ -11,7 +11,7 @@
         <div class="w-12 h-12 rounded-xl bg-primary flex items-center justify-center shadow-lg active:scale-95 transition-transform duration-200">
           <span class="material-symbols-outlined text-white text-3xl">recycling</span>
         </div>
-        <span class="text-2xl font-bold text-primary">PlasticPickup</span>
+        <span class="text-2xl font-bold text-primary">PlasticIQ pickup</span>
       </div>
       <h1 class="text-4xl font-bold text-on-surface text-center">Create Account</h1>
       <p class="text-base text-on-surface-variant mt-2 text-center max-w-[280px]">
