@@ -189,7 +189,7 @@
                     New Hub Added
                   </p>
                   <p class="text-2xl font-semibold text-on-surface">
-                    San Francisco
+                    Abuja
                   </p>
                 </div>
               </div>
