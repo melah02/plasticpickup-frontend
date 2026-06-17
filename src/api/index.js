@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const api = axios.create({ baseURL: 'https://plasticpickup-dwqge8ym.b4a.run/' });
+const api = axios.create({ baseURL: 'https://plasticpickup-s0wyl1sd.b4a.run/' });
 
 api.interceptors.request.use((config) => {
   const token = localStorage.getItem('token');
